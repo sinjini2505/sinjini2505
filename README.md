@@ -16,13 +16,7 @@ Welcome to my GitHub profile! I'm Sinjini Gupta, a passionate **bioinformatics r
 - **Languages:** Python, R, Bash  
 - **Tools & Frameworks:** Jupyter Notebook, Snakemake 
 - **Databases:** MySQL, SQL Server
-- **Specialized Tools:** Seurat, DESeq2, Bioconductor  
-
----
-
-## 📈 GitHub Stats  
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your_username&layout=compact&theme=radical)  
+- **Specialized Tools:** Seurat, DESeq2, Bioconductor   
 
 ---
 
